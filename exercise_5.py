@@ -3,9 +3,10 @@
 #
 # int_value = int(a)
 
-a = input("podaj swoje imię: ")
-a += input("Podaj swoje nazwisko: ")
-a += " jest programistą Pythona!"
+a = input("put your name: ")
+a += input("put your surname: ")
+a += " is Python programmer"
 
 print(a)
+
 
